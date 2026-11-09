@@ -1,0 +1,8 @@
+data/raw/
+data/split/
+models/
+results/
+notebooks/test_render.png
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
